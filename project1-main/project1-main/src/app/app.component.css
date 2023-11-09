@@ -1,0 +1,5 @@
+table, tr, th, td {
+    border: 1px dashed red;
+    color: red;
+    background: black;
+  }
